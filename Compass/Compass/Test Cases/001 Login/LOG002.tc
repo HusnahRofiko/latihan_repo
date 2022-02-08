@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login klik &quot;Ingat saya&quot; - Belum Verifikasi Email</description>
+   <name>LOG002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4fda4e3-f88f-4966-b068-e0c683b5685a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a1080f13-8267-48bb-bfce-0b70a679eca0</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2ed3287a-3297-4671-9958-c1f3382b9922</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

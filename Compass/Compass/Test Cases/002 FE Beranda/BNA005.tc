@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Masuk ke menu Profil</description>
+   <name>BNA005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>680c6ac9-953e-4157-8577-6d8ef8116a14</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>71083ba4-3a78-4efb-9b54-74e7e859934b</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>88bf0bb2-86cc-4791-befa-227416aa8602</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

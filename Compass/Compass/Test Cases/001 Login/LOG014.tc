@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi Email - Selain Email Finansia</description>
+   <name>LOG014</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b47d5230-eff5-4eb5-b76e-5e4f96431020</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>12aaddea-cdac-4ed8-aaf7-6053baf62c2d</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c195f541-be49-4e6d-8d3d-6b7ff35ac41b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7e4a2c9b-a2db-4dbd-a665-cc0a647a5ae9</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melihat Notifikasi</description>
+   <name>BNA006</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82a67d01-671f-4cca-a0ba-c1ff78eae546</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1cf9fd16-7009-430a-8718-9eae303ca812</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>62aee53b-f3ff-4850-8318-c47f1e19cfbd</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

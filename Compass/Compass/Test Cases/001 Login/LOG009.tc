@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Akun yang sudah melakukan Verifikasi Email tidak Menampilkankan POP-UP Verifikasi Email ketika login</description>
+   <name>LOG009</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6e9bdd9-ad79-43b8-b63e-50ea325a9f42</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0bd4dfd1-7be5-46e6-8ce6-a76b2f52aea4</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f9237cec-d911-4501-a934-0d09c9f254bf</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

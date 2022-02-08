@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login - Belum Verifikasi Email</description>
+   <name>LOG001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>189acafe-d414-4836-bd25-7c1d181f969e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c900c03a-1099-4d93-942c-d5ed31dbd169</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c927321-d787-4a7a-8a57-96c9fd8fd037</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

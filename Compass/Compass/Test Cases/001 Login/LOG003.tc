@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dengan NIK belum terdaftar</description>
+   <name>LOG003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>386d8bd1-4628-433d-bea0-45d7a3824465</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>61cfe4d6-d238-495e-9faa-16a398791346</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cffb509a-8b7d-4e59-9fcd-2b2f8834d29d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

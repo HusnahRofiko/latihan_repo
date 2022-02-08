@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Verifikasi Email - Format penulisan email selain email finansia tidak valid
+ (ex : testeryahoo.com)&quot;</description>
+   <name>LOG015</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62577578-2fed-4b97-a684-210aa5267136</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e7730699-0500-4ad9-bbaf-c649649506ca</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1e10e039-4258-4d4f-a6d3-bd569b3b458a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cee1d6ed-0934-40a4-b02d-e45b0b7922e3</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

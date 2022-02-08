@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi Email - Menggunakan email yang salah</description>
+   <name>LOG017</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adba3048-d382-41be-90b1-d5652919ceea</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c03e87d3-72b0-493d-a23f-eaafb1dd0f73</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9ce4b307-31b7-46a1-a1f4-baaffe218fdf</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ddfd137b-640d-4b09-aca8-eab81ed86e77</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

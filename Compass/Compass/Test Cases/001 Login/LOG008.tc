@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dengan NIK dan Password yang sudah terdaftar klik  &quot;Ingat saya&quot; - Sudah Verifikasi Email</description>
+   <name>LOG008</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7db65d3-7d6c-4ac4-af10-73cbf79b164a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c03fb9a-0ae7-430c-8df6-21975a465fb9</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3dceabf8-9591-4ba5-afbf-1f11d3a8f09e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

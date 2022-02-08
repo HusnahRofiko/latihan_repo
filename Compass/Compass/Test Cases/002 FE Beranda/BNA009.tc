@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Masuk ke menu Events</description>
+   <name>BNA009</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8586b2e6-1af6-4fd2-b12f-45f6577d6dad</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ddb5c3b3-29e5-4eac-ae4b-f91c1475b437</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>265715c6-852e-44a1-ad54-b0fc40ae1df7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

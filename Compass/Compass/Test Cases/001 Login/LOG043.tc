@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logout</description>
+   <name>LOG043</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffbf2c5c-153b-40f6-95b8-1e55800ef34f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f6dbea18-afae-4ee1-b74b-cd1b2d206886</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>51eb002f-ccea-457b-9c1e-6052a36524e1</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

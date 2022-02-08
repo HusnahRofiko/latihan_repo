@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Masuk ke menu admin</description>
+   <name>LOG042</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdb9c197-80dd-4cbb-aace-99a3f0df859a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>27750483-570b-4561-9680-b5c6890f3b01</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a1a303a9-e2c6-446d-8dac-3ff551b88c9b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

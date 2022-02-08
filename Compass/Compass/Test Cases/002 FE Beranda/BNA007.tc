@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Masuk ke menu Learning</description>
+   <name>BNA007</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8d9107a-7aeb-4488-8694-5aa8574c040a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f0d1b2c9-68f0-4b0e-b260-082b57cfef8f</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>abe7b040-c6e8-4c0b-8e34-1153c98c799c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

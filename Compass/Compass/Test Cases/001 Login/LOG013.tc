@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>&quot;Verifikasi Email Finansia - format penulisan email finansia tidak valid 
+(ex : tester@finansia.com@finansia.com)&quot;</description>
+   <name>LOG013</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6a68986-25cd-4eca-b5e7-954461c73248</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>291a9464-2f99-4205-b598-6d0ba3b0921e</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f545f5bb-54d2-4059-904c-b28dd8a2bd55</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f0d670b7-cdf0-4c31-b744-ded3110e5f88</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

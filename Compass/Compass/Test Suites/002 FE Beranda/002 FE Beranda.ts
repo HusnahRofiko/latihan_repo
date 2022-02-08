@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>002 FE Beranda</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>2c49270c-5e6c-4623-9a79-81faf8860d06</testSuiteGuid>
+   <testCaseLink>
+      <guid>c5dcf2be-2f18-4abd-8b88-506eb441040a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/002 FE Beranda/BNA005</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bee5e82d-7c98-4645-8e64-77872d89c355</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>7</value>
+         </iterationEntity>
+         <testDataId>Data Files/001 Login</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>bee5e82d-7c98-4645-8e64-77872d89c355</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NIK</value>
+         <variableId>71083ba4-3a78-4efb-9b54-74e7e859934b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bee5e82d-7c98-4645-8e64-77872d89c355</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>88bf0bb2-86cc-4791-befa-227416aa8602</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c5284a52-7009-4ed3-9fd9-964a805f0817</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/002 FE Beranda/BNA006</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>dca99f40-bdd5-4f62-a772-401977ba580a</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>7</value>
+         </iterationEntity>
+         <testDataId>Data Files/001 Login</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>dca99f40-bdd5-4f62-a772-401977ba580a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NIK</value>
+         <variableId>1cf9fd16-7009-430a-8718-9eae303ca812</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>dca99f40-bdd5-4f62-a772-401977ba580a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>62aee53b-f3ff-4850-8318-c47f1e19cfbd</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>12a71f81-d4a2-4a6a-84d7-1fc53654d882</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/002 FE Beranda/BNA007</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e3f53c03-c4d3-41e7-9f37-f9a06504f421</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>7</value>
+         </iterationEntity>
+         <testDataId>Data Files/001 Login</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>e3f53c03-c4d3-41e7-9f37-f9a06504f421</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NIK</value>
+         <variableId>f0d1b2c9-68f0-4b0e-b260-082b57cfef8f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e3f53c03-c4d3-41e7-9f37-f9a06504f421</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>abe7b040-c6e8-4c0b-8e34-1153c98c799c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>94cf4467-14ac-42e5-9fc3-fe0cbda853ce</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/002 FE Beranda/BNA008</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4f5addb5-1742-48be-ad42-407dee21a25a</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>7</value>
+         </iterationEntity>
+         <testDataId>Data Files/001 Login</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>4f5addb5-1742-48be-ad42-407dee21a25a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NIK</value>
+         <variableId>69722737-f18f-4851-b897-146bc02f3917</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4f5addb5-1742-48be-ad42-407dee21a25a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>b9d9175a-45b3-4dda-85a4-0a21f1ae6fa3</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ae94223d-bccb-474b-88c0-fa6dc2a85e8a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/002 FE Beranda/BNA009</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>30718f30-d060-42d0-9335-132d41653b61</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>7</value>
+         </iterationEntity>
+         <testDataId>Data Files/001 Login</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>30718f30-d060-42d0-9335-132d41653b61</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NIK</value>
+         <variableId>ddb5c3b3-29e5-4eac-ae4b-f91c1475b437</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>30718f30-d060-42d0-9335-132d41653b61</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>265715c6-852e-44a1-ad54-b0fc40ae1df7</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

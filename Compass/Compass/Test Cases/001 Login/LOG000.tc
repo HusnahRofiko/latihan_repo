@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>login all</description>
+   <name>LOG000</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b0da0a1-9315-43b7-8161-4767b85a0793</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0ff7e80b-a691-4164-9eda-14b9ea6507eb</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1d4d997-a5e3-4f3c-bbe4-b0f0a986d9b9</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dengan NIK yang sudah terdaftar klik &quot;Ingat saya&quot; - Invalid Password</description>
+   <name>LOG006</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73d1c822-a6ff-4288-a45b-da33ce529d90</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8a7a6a64-5b38-4457-b97e-3adcf0dae2e7</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7de75750-8062-48e2-8022-41c9e798f389</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

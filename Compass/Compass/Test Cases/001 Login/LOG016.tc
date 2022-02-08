@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah kolom input email ketika klik check box &quot;Saya tidak memiliki email finansia&quot;</description>
+   <name>LOG016</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38dc4a18-0698-493f-8b8a-65c58fe760f3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>018c4872-e3c1-43f1-b868-62bee44935a6</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6d7b5d33-069c-4090-9e5c-332a5479fd4f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c59304ed-6d91-4c62-bd71-6b1017686dce</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

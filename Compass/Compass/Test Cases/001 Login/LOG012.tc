@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan Tombol Kirim terdisable ketika belum input email</description>
+   <name>LOG012</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0500e13b-cd54-4e6f-8856-7a245112475b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>72467c53-537e-40a9-9431-bf35c1c668d0</id>
+      <masked>false</masked>
+      <name>NIK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>147f724a-9f35-4211-83ba-7452c455ecdf</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4cdc02a5-644d-4dd7-8317-89bf78f5e798</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
